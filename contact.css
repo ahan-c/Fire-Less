@@ -1,0 +1,19 @@
+.contact{
+    background-color: rgb(126, 234, 241);
+}
+.main3{
+    font-size: 105%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.nav{
+    background-color: rgb(241, 233, 154);
+    width: 1390px;
+    border: 1px solid black;
+    padding: 8.5px;
+    text-align: center;
+}
+.h11{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}

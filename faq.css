@@ -1,0 +1,30 @@
+.nav{
+    background-color: rgb(241, 233, 154);
+    width: 1390px;
+    border: 1px solid black;
+    padding: 8.5px;
+    text-align: center;
+  }
+.faq1{
+font-size: 130%;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.faq1_ans{
+font-size: 110%;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.faq2{
+    font-size: 130%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .faq2_ans{
+    font-size: 110%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+.h1{
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+}
+.main2{
+    background-color: rgb(126, 234, 241);
+}

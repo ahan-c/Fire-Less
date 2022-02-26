@@ -5,4 +5,4 @@ This project was made in a time of 3 days.<br /><br />
 To run this program you need to have Python 3 or more installed in your computer.<br />
 Run the "main.py" file to run the program.<br />
 After running this program a website will open shortly and then browse through the website. Once done browsing return back to the program.<br /><br />
-This project is made by Ahan Choudhary.
+This project was made by Ahan Choudhary.

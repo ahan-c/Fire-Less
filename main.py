@@ -1,6 +1,6 @@
 import time
 print("Welcome to Fire Less!")
-print("\nBefore moving on we're going to show a website which I've made with a lot of effort!")
+print("\nBefore moving on I'm going to show a website which I've made with a lot of effort!")
 print("Please take time to have a look at it.\n")
 print("\nOpening website...")
 points = 0
